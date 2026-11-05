@@ -1,4 +1,4 @@
-# A Shape That Smooths Itself Away
+# Poincaré Conjecture Exposition
 
 A reader's guide to Perelman's proof of the Poincaré conjecture: Ricci flow, surgery, and finite extinction.
 An exposition for MathDB problem JSP-000007 (Poincaré conjecture).
