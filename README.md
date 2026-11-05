@@ -13,7 +13,7 @@ V2, animation flow + music, no narration:
 
 [![V2, animation flow + music, no narration](https://img.youtube.com/vi/73PPmBb6-gU/maxresdefault.jpg)](https://www.youtube.com/watch?v=73PPmBb6-gU)
 
-V1, narrated (author's voice):
+V1, narrated:
 
 [![V1, narrated](https://img.youtube.com/vi/RSax0iUitS8/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSax0iUitS8)
 
