@@ -1,7 +1,7 @@
 # Poincaré Conjecture Exposition
 
 A reader's guide to Perelman's proof of the Poincaré conjecture: Ricci flow, surgery, and finite extinction.
-An exposition for MathDB problem JSP-000007 (Poincaré conjecture).
+An exposition for the MathDB Poincaré conjecture problem.
 
 Author: Zinan Xing
 
